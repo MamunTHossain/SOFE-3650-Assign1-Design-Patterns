@@ -5,4 +5,4 @@
 
 1. Link for UML diagram https://ibb.co/SKgdLYj
 
-[a relative link](path%20with%20spaces/other_file.md)
+2. [UML + Code Snippet](https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Assignment%201_%20Design%20Patterns.pdf)
