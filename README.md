@@ -7,4 +7,4 @@
 
 2. [UML + Code Snippet](https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Assignment%201_%20Design%20Patterns.pdf)
 
-3. [Code Snippet.txt] (https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Test%20Driver.rtf)
+3. [Code Snippet.txt](https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Test%20Driver.rtf)
