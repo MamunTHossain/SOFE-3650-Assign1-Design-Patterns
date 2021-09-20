@@ -2,6 +2,6 @@
 
 # Table of Contents
 
-Code and UML diagram for the assigned work
-https://ibb.co/SKgdLYj
+
+1. Link for UML diagram https://ibb.co/SKgdLYj
 
