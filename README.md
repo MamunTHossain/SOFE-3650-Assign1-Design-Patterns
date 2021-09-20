@@ -5,4 +5,4 @@
 
 1. Link for UML diagram https://ibb.co/SKgdLYj
 
-[r2h]: http://github.com/github/markup/tree/master/lib/github/commands/rest2html
+[a relative link](path%20with%20spaces/other_file.md)
