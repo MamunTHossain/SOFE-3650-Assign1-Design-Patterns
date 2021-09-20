@@ -1,41 +1,19 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 TimesNewRomanPSMT;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red239\green239\blue239;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c94902\c94902\c94902;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl478\partightenfactor0
 
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\pard\pardeftab720\sl478\partightenfactor0
+ import org.junit.Test;
 
-\f1\fs34\fsmilli17333 \cf2 \cb3 import org.junit.Test;
-\f0\fs24 \cb1 \
 
-\f1\fs34\fsmilli17333 \cb3 import static org.junit.Assert.*;
-\f0\fs24 \cb1 \
+ import static org.junit.Assert.*;
+ Public class ProductTest \{
 
-\f1\fs34\fsmilli17333 \cb3 Public class ProductTest \{
-\f0\fs24 \cb1 \
 
-\f1\fs34\fsmilli17333 \cb3 \'a0@Test
-\f0\fs24 \cb1 \
+@Test
+public void testProduct() \{
 
-\f1\fs34\fsmilli17333 \cb3 \'a0public void testProduct() \{
-\f0\fs24 \cb1 \
+product product = new Product();
 
-\f1\fs34\fsmilli17333 \cb3 \'a0\'a0product product = new Product();
-\f0\fs24 \cb1 \
+string SetProduct = product.displayProductFactory(\'93product1\'94, "product2\'94);
+assertEquals(\'93product1product2\'94, SetProduct);\'a0
 
-\f1\fs34\fsmilli17333 \cb3 \'a0\'a0string SetProduct = product.displayProductFactory(\'93product1\'94, "product2\'94);
-\f0\fs24 \cb1 \
-
-\f1\fs34\fsmilli17333 \cb3 \'a0\'a0assertEquals(\'93product1product2\'94, SetProduct);\'a0
-\f0\fs24 \cb1 \
-
-\f1\fs34\fsmilli17333 \cb3 \'a0\}
-\f0\fs24 \cb1 \
+\}
+ \
 }
